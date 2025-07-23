@@ -1,4 +1,4 @@
 polar:
   greeting: "Welcome to the catalog from the config server"
 server
-  port:9002
+  port: 9002
